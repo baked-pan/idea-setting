@@ -1,0 +1,12 @@
+<templateSet group="Java">
+  <template name="smain" value="&#10;public static void main(String[] args) throws Exception {&#10;&#9;&#9;SpringApplication.run(thisclass, args);&#10;&#9;}" shortcut="ENTER" description="spring-boot main方法" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="main" value="public static void main(String[] args)  {&#10;    &#10;&#9;}&#10;" shortcut="ENTER" description="普通的main方法" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

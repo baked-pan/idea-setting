@@ -1,0 +1,13 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="infoFile" type="PLAIN_TEXT" />
+      <mapping pattern="pic" type="PLAIN_TEXT" />
+      <mapping pattern="file" type="PLAIN_TEXT" />
+      <mapping pattern="demos" type="PLAIN_TEXT" />
+      <mapping pattern="queue" type="PLAIN_TEXT" />
+      <mapping ext="text" type="PLAIN_TEXT" />
+      <mapping ext="bin" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

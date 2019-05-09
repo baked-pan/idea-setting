@@ -1,0 +1,12 @@
+<templateSet group="JavaScript">
+  <template name="cout" value="console.log();" description="打印" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="jquery" value="&lt;script src=&quot;https://cdn.bootcss.com/jquery/3.0.0/jquery.js&quot;&gt;&lt;/script&gt;" description="jquery3.0.0" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>
