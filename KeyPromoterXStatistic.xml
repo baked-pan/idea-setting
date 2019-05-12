@@ -6,7 +6,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Alt+向左箭头'</ShortCut>
           <Description>Back</Description>
-          <Count>62</Count>
+          <Count>89</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -38,7 +38,7 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+C'</ShortCut>
           <Description>Copy Reference</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -62,7 +62,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F3'</ShortCut>
           <Description>Declaration</Description>
-          <Count>74</Count>
+          <Count>126</Count>
         </Item>
       </Statistic>
       <Statistic Action="Desktop Directory">
@@ -126,7 +126,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Alt+Shift+X' or 'Shift+F10'</ShortCut>
           <Description>Run 'HandychipApplication'</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'RemoteApplication'">
