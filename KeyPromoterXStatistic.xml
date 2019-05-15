@@ -38,7 +38,7 @@
           <IdeaActionID>CopyPaths</IdeaActionID>
           <ShortCut>'Ctrl+Shift+C'</ShortCut>
           <Description>Copy Path</Description>
-          <Count>38</Count>
+          <Count>39</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Reference">
@@ -217,6 +217,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'KuaiProxy'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F11'</ShortCut>
+          <Description>Rerun 'KuaiProxy'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Main'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -334,7 +342,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'DoujindownloaderAppl...'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'DoujindownloaderApplication'">
@@ -503,6 +511,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'DoujindownloaderApplication'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'KuaiProxy'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'KuaiProxy'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Main (4)'">
