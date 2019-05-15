@@ -5,6 +5,7 @@
       <mapping pattern="pic" type="PLAIN_TEXT" />
       <mapping pattern="file" type="PLAIN_TEXT" />
       <mapping pattern="demos" type="PLAIN_TEXT" />
+      <mapping pattern="tmp" type="PLAIN_TEXT" />
       <mapping pattern="queue" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
