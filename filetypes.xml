@@ -6,6 +6,7 @@
       <mapping pattern="file" type="PLAIN_TEXT" />
       <mapping pattern="demos" type="PLAIN_TEXT" />
       <mapping pattern="queue" type="PLAIN_TEXT" />
+      <mapping ext="db" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
     </extensionMap>
