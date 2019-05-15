@@ -1,6 +1,14 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
+      <Statistic Action="Analyze Current File">
+        <Item>
+          <IdeaActionID>FindBugs.CurrentFileAction</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+F'</ShortCut>
+          <Description>Analyze Current File</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Build Project">
         <Item>
           <IdeaActionID>CompileDirty</IdeaActionID>
@@ -86,7 +94,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F3'</ShortCut>
           <Description>Declaration</Description>
-          <Count>311</Count>
+          <Count>321</Count>
         </Item>
       </Statistic>
       <Statistic Action="Desktop Directory">
