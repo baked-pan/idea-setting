@@ -105,6 +105,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'login.html'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Alt+Shift+D' or 'Shift+F9'</ShortCut>
+          <Description>Debug 'login.html'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Declaration">
         <Item>
           <IdeaActionID>GotoDeclaration</IdeaActionID>
@@ -198,7 +206,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>29</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
@@ -505,12 +513,20 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'login.html'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'login.html'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Settings...">
         <Item>
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>12</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Out">
@@ -623,6 +639,22 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'SpiderDemo'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'index.html'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'index.html'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'login.html'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'login.html'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
