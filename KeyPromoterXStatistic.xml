@@ -30,7 +30,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -38,7 +38,7 @@
           <IdeaActionID>CopyPaths</IdeaActionID>
           <ShortCut>'Ctrl+Shift+C'</ShortCut>
           <Description>Copy Path</Description>
-          <Count>52</Count>
+          <Count>53</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Reference">
@@ -46,7 +46,7 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+C'</ShortCut>
           <Description>Copy Reference</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Relative Path">
@@ -134,7 +134,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F3'</ShortCut>
           <Description>Declaration</Description>
-          <Count>571</Count>
+          <Count>573</Count>
         </Item>
       </Statistic>
       <Statistic Action="Desktop Directory">
