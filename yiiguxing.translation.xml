@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="overwhelm" />
+      <item value="overwhelme" />
+      <item value="backpressure" />
+      <item value="Dispose" />
       <item value="idempotent" />
       <item value="transitive" />
       <item value="delegate" />
@@ -47,16 +51,13 @@
       <item value="pipeline" />
       <item value="Datagram Channel" />
       <item value="Date Time Formatter" />
-      <item value="html" />
-      <item value="erasure" />
-      <item value="status" />
-      <item value="parodies" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="32" />
-        <entry key="ENGLISH" value="33" />
+        <entry key="CHINESE" value="35" />
+        <entry key="ENGLISH" value="36" />
         <entry key="DANISH" value="2" />
+        <entry key="FRENCH" value="1" />
       </map>
     </option>
   </component>
