@@ -134,7 +134,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F3'</ShortCut>
           <Description>Declaration</Description>
-          <Count>638</Count>
+          <Count>641</Count>
         </Item>
       </Statistic>
       <Statistic Action="Desktop Directory">
@@ -295,6 +295,14 @@
           <ShortCut>'Ctrl+F11'</ShortCut>
           <Description>Rerun 'DoujindownloaderApplication'</Description>
           <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'EventBusDemo'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F11'</ShortCut>
+          <Description>Rerun 'EventBusDemo'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'FilesDemo'">
