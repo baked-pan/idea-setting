@@ -134,7 +134,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F3'</ShortCut>
           <Description>Declaration</Description>
-          <Count>690</Count>
+          <Count>692</Count>
         </Item>
       </Statistic>
       <Statistic Action="Desktop Directory">
@@ -287,6 +287,14 @@
           <ShortCut>'Ctrl+F11'</ShortCut>
           <Description>Rerun 'CommonParserTest'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Dj'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F11'</ShortCut>
+          <Description>Rerun 'Dj'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Doujin'">
