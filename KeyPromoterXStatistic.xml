@@ -142,7 +142,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F3'</ShortCut>
           <Description>Declaration</Description>
-          <Count>719</Count>
+          <Count>729</Count>
         </Item>
       </Statistic>
       <Statistic Action="Desktop Directory">
@@ -350,7 +350,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F11'</ShortCut>
           <Description>Rerun 'HiberredisApplication'</Description>
-          <Count>19</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'KuaiProxy'">
@@ -558,7 +558,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'HiberredisApplication'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Main (4)'">
