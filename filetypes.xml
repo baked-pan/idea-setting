@@ -11,7 +11,9 @@
       <mapping ext="db" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
+      <mapping pattern="Person.ts" type="TypeScript" />
       <mapping pattern="Dynamic" type="TypeScript" />
+      <mapping pattern="IPerson" type="TypeScript" />
       <mapping pattern="Dynammic" type="TypeScript" />
     </extensionMap>
   </component>
