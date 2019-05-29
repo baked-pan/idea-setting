@@ -206,7 +206,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F3'</ShortCut>
           <Description>Directive Declaration</Description>
-          <Count>8</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -590,7 +590,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>27</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Angular CLI Server (form)'">
@@ -622,14 +622,6 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Alt+Shift+X' or 'Shift+F10'</ShortCut>
           <Description>Run 'Angular CLI Server (lifecircle)'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'Angular CLI Server (loginForm)'">
-        <Item>
-          <IdeaActionID>Run</IdeaActionID>
-          <ShortCut>'Alt+Shift+X' or 'Shift+F10'</ShortCut>
-          <Description>Run 'Angular CLI Server (loginForm)'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1001,6 +993,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'Angular CLI Server (today-ng)'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Angular CLI Server (today-ng)'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'Angular CLI Server'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1289,6 +1289,14 @@
           <ShortCut>'F3'</ShortCut>
           <Description>Declaration</Description>
           <Count>896</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Angular CLI Server (loginForm)'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Alt+Shift+X' or 'Shift+F10'</ShortCut>
+          <Description>Run 'Angular CLI Server (loginForm)'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Angular CLI Server (form)'">
