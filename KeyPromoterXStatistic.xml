@@ -25,14 +25,6 @@
           <Count>4</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Close All">
-        <Item>
-          <IdeaActionID>CloseAllEditors</IdeaActionID>
-          <ShortCut>'Ctrl+Shift+F4' or 'Ctrl+Shift+W'</ShortCut>
-          <Description>Close All</Description>
-          <Count>22</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Copy">
         <Item>
           <IdeaActionID>$Copy</IdeaActionID>
@@ -1273,6 +1265,14 @@
           <ShortCut>'Alt+向左箭头'</ShortCut>
           <Description>Back</Description>
           <Count>155</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Close All">
+        <Item>
+          <IdeaActionID>CloseAllEditors</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F4' or 'Ctrl+Shift+W'</ShortCut>
+          <Description>Close All</Description>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Component Declaration">
