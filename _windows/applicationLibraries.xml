@@ -32,16 +32,15 @@
     <library name="bootstrap" type="javaScript">
       <properties>
         <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_twitter-bootstrap_3.3.7_js_bootstrap.js" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_maxcdn.bootstrapcdn.com_bootstrap_3.3.7_js_bootstrap.js" />
-          <item url="file://D:/coding/bootstrap-3.3.7/dist/css" />
+          <item url="file://D:/coding/openSource/frontEnd-framework/bootstrap-3.3.7/dist/js/bootstrap.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_twitter-bootstrap_3.3.7_js_bootstrap.js" />
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_maxcdn.bootstrapcdn.com_bootstrap_3.3.7_js_bootstrap.js" />
-        <root url="file://D:/coding/bootstrap-3.3.7/dist/css" />
+        <root url="file://D:/coding/openSource/frontEnd-framework/bootstrap-3.3.7/dist/js/bootstrap.js" />
       </CLASSES>
+      <DOCUMENTATION>
+        <root url="https://lib.baomitu.com/twitter-bootstrap/4.3.1/css/bootstrap.css" />
+      </DOCUMENTATION>
       <JAVADOC />
       <SOURCES />
     </library>
