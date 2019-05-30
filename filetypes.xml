@@ -14,6 +14,7 @@
       <mapping pattern="Person.ts" type="TypeScript" />
       <mapping pattern="Dynamic" type="TypeScript" />
       <mapping pattern="IPerson" type="TypeScript" />
+      <mapping pattern="controlName" type="TypeScript" />
       <mapping pattern="http" type="TypeScript" />
       <mapping pattern="Dynammic" type="TypeScript" />
     </extensionMap>
