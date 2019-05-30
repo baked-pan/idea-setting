@@ -22,7 +22,7 @@
           <IdeaActionID>Git.Branches</IdeaActionID>
           <ShortCut>'Ctrl+Shift+`'</ShortCut>
           <Description>Branches...</Description>
-          <Count>12</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Project">
@@ -1030,7 +1030,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Angular CLI Server'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'App'">
