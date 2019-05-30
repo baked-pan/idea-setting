@@ -73,6 +73,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Angular CLI Server'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Alt+Shift+D' or 'Shift+F9'</ShortCut>
+          <Description>Debug 'Angular CLI Server'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'Demo'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -206,7 +214,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F3'</ShortCut>
           <Description>Directive Declaration</Description>
-          <Count>71</Count>
+          <Count>77</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -1246,7 +1254,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+Shift+B' or 'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>90</Count>
+          <Count>91</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
