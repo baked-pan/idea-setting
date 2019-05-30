@@ -22,7 +22,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'Ctrl+F9' or 'Ctrl+B'</ShortCut>
           <Description>Build Project</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -38,7 +38,7 @@
           <IdeaActionID>CopyPaths</IdeaActionID>
           <ShortCut>'Ctrl+Shift+C'</ShortCut>
           <Description>Copy Path</Description>
-          <Count>73</Count>
+          <Count>76</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Reference">
@@ -46,7 +46,7 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+C'</ShortCut>
           <Description>Copy Reference</Description>
-          <Count>23</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Relative Path">
@@ -318,7 +318,7 @@
           <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+S'</ShortCut>
           <Description>Project Structure...</Description>
-          <Count>83</Count>
+          <Count>86</Count>
         </Item>
       </Statistic>
       <Statistic Action="Push...">
@@ -342,6 +342,14 @@
           <IdeaActionID>RunDashboard.Run</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Rerun</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'AngularspringbootdemoApplication'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F11'</ShortCut>
+          <Description>Rerun 'AngularspringbootdemoApplication'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -606,7 +614,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>29</Count>
+          <Count>34</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Angular CLI Server (form)'">
@@ -655,6 +663,22 @@
           <ShortCut>'Alt+Shift+X' or 'Shift+F10'</ShortCut>
           <Description>Run 'Angular CLI Server'</Description>
           <Count>14</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Angularspringbootdem...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'Angularspringbootdem...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'AngularspringbootdemoApplication'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Alt+Shift+X' or 'Shift+F10'</ShortCut>
+          <Description>Run 'AngularspringbootdemoApplication'</Description>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'App (1)'">
@@ -937,6 +961,22 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'angularspringbootdem...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'angularspringbootdem...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'angularspringbootdemo-0.0.1-SNAPSHOT.jar'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Alt+Shift+X' or 'Shift+F10'</ShortCut>
+          <Description>Run 'angularspringbootdemo-0.0.1-SNAPSHOT.jar'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'login.html'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1022,7 +1062,15 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Angular CLI Server'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'AngularspringbootdemoApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'AngularspringbootdemoApplication'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'App'">
@@ -1201,6 +1249,14 @@
           <Count>17</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'angularspringbootdemo-0.0.1-SNAPSHOT.jar'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'angularspringbootdemo-0.0.1-SNAPSHOT.jar'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'index.html'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1246,7 +1302,7 @@
           <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
           <ShortCut>'Alt+6'</ShortCut>
           <Description>TODO</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
